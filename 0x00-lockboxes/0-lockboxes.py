@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Algo to unlock boxes that may contain keys to other boxes
+"""Algo to unlock boxes that may contain keys to other boxes"""
 
 
 def canUnlockAll(boxes):
