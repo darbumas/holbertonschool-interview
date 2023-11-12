@@ -140,5 +140,13 @@ The optimized approach achieves the same result as the dynamic programming
 approach with memoization but without the need for additional space or recursive
 calls. It is a more efficient and straightforward solution.
 
+## How to run
+
+```
+user@computer:/0x00-climbing_stairs$ gcc -Wall -Werror -Wextra -pedantic climbStairs.c -o climbStairs
+user@computer:/0x00-climbing_stairs$ ./climbStairs 15
+Number of distinct ways to climb 15 stairs is [987]
+user@computer:/0x00-climbing_stairs$
+```
 
 
